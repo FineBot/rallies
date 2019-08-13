@@ -16,15 +16,15 @@ self.__precacheManifest = [
     "url": "/rallies/static/js/runtime~main.f328c6d5.js"
   },
   {
-    "revision": "78b8e628386f7ff69f67",
-    "url": "/rallies/static/js/main.320e94f0.chunk.js"
+    "revision": "25e98d48240c04a7fea3",
+    "url": "/rallies/static/js/main.23d49691.chunk.js"
   },
   {
     "revision": "1923400351c451df7ba3",
     "url": "/rallies/static/js/2.5f59da72.chunk.js"
   },
   {
-    "revision": "78b8e628386f7ff69f67",
+    "revision": "25e98d48240c04a7fea3",
     "url": "/rallies/static/css/main.82367973.chunk.css"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/rallies/static/css/2.09b63e59.chunk.css"
   },
   {
-    "revision": "1ab072c0f2b6a8742b25c3ed3f5e2a0b",
+    "revision": "b1d1c250086ef5c6ff2c65250027de20",
     "url": "/rallies/index.html"
   }
 ];
