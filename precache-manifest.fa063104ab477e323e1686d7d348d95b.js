@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/rallies/static/media/ic_launcher.bc7158f2.png"
   },
   {
-    "revision": "6e019711962939866310",
+    "revision": "995f46be4c6df9d0cce9",
     "url": "/rallies/static/css/main.69b887fb.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "/rallies/static/media/l6AtKw.4a4a9b10.png"
   },
   {
-    "revision": "62c49420a05764de701b",
-    "url": "/rallies/static/js/2.67680518.chunk.js"
+    "revision": "a14b52e6b4567010f8c4",
+    "url": "/rallies/static/js/2.b24a5a83.chunk.js"
   },
   {
     "revision": "4e1ec8403d903dc514271d7328fbdeb3",
     "url": "/rallies/static/media/persik.4e1ec840.png"
   },
   {
-    "revision": "6e019711962939866310",
-    "url": "/rallies/static/js/main.5bc52b59.chunk.js"
+    "revision": "995f46be4c6df9d0cce9",
+    "url": "/rallies/static/js/main.8dc0247c.chunk.js"
   },
   {
     "revision": "42446fd58b2b0e69d3946a36d437caea",
@@ -44,11 +44,11 @@ self.__precacheManifest = [
     "url": "/rallies/static/media/1LZwR4l6AtKw.4a916eec.png"
   },
   {
-    "revision": "62c49420a05764de701b",
+    "revision": "a14b52e6b4567010f8c4",
     "url": "/rallies/static/css/2.98459b41.chunk.css"
   },
   {
-    "revision": "429d4ec8829c1dff35c7d17d28371267",
+    "revision": "e25197656e55fa498fb9cf28a8632932",
     "url": "/rallies/index.html"
   }
 ];
