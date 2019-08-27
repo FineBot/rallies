@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/rallies/static/css/2.98459b41.chunk.css"
   },
   {
-    "revision": "653c4737ad13d2453757f50ddca4a420",
+    "revision": "230c85c5540422910eb069652d123aed",
     "url": "/rallies/index.html"
   }
 ];
