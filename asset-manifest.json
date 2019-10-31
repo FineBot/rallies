@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rallies/static/css/main.b3dc1ee1.chunk.css",
-    "main.js": "/rallies/static/js/main.f63f4740.chunk.js",
-    "main.js.map": "/rallies/static/js/main.f63f4740.chunk.js.map",
+    "main.js": "/rallies/static/js/main.d0debf84.chunk.js",
+    "main.js.map": "/rallies/static/js/main.d0debf84.chunk.js.map",
     "runtime-main.js": "/rallies/static/js/runtime-main.6403436d.js",
     "runtime-main.js.map": "/rallies/static/js/runtime-main.6403436d.js.map",
     "static/css/2.7214840c.chunk.css": "/rallies/static/css/2.7214840c.chunk.css",
-    "static/js/2.8140fcc8.chunk.js": "/rallies/static/js/2.8140fcc8.chunk.js",
-    "static/js/2.8140fcc8.chunk.js.map": "/rallies/static/js/2.8140fcc8.chunk.js.map",
+    "static/js/2.7c042f05.chunk.js": "/rallies/static/js/2.7c042f05.chunk.js",
+    "static/js/2.7c042f05.chunk.js.map": "/rallies/static/js/2.7c042f05.chunk.js.map",
     "index.html": "/rallies/index.html",
-    "precache-manifest.d8547f2f5bb64cbb65a0f2a8d3532893.js": "/rallies/precache-manifest.d8547f2f5bb64cbb65a0f2a8d3532893.js",
+    "precache-manifest.6f43106772ded0e281456d74801054fb.js": "/rallies/precache-manifest.6f43106772ded0e281456d74801054fb.js",
     "service-worker.js": "/rallies/service-worker.js",
     "static/css/2.7214840c.chunk.css.map": "/rallies/static/css/2.7214840c.chunk.css.map",
     "static/css/main.b3dc1ee1.chunk.css.map": "/rallies/static/css/main.b3dc1ee1.chunk.css.map",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.6403436d.js",
     "static/css/2.7214840c.chunk.css",
-    "static/js/2.8140fcc8.chunk.js",
+    "static/js/2.7c042f05.chunk.js",
     "static/css/main.b3dc1ee1.chunk.css",
-    "static/js/main.f63f4740.chunk.js"
+    "static/js/main.d0debf84.chunk.js"
   ]
 }
