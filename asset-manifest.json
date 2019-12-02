@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/rallies/static/css/main.dab070d2.chunk.css",
-    "main.js": "/rallies/static/js/main.2b71244d.chunk.js",
-    "main.js.map": "/rallies/static/js/main.2b71244d.chunk.js.map",
+    "main.css": "/rallies/static/css/main.5729bacf.chunk.css",
+    "main.js": "/rallies/static/js/main.ddfa1e36.chunk.js",
+    "main.js.map": "/rallies/static/js/main.ddfa1e36.chunk.js.map",
     "runtime-main.js": "/rallies/static/js/runtime-main.6403436d.js",
     "runtime-main.js.map": "/rallies/static/js/runtime-main.6403436d.js.map",
-    "static/css/2.7214840c.chunk.css": "/rallies/static/css/2.7214840c.chunk.css",
-    "static/js/2.40d200e4.chunk.js": "/rallies/static/js/2.40d200e4.chunk.js",
-    "static/js/2.40d200e4.chunk.js.map": "/rallies/static/js/2.40d200e4.chunk.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/rallies/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.d3864b94.chunk.js": "/rallies/static/js/2.d3864b94.chunk.js",
+    "static/js/2.d3864b94.chunk.js.map": "/rallies/static/js/2.d3864b94.chunk.js.map",
     "index.html": "/rallies/index.html",
-    "precache-manifest.5cc11de76fff026d666074801a4ca3d8.js": "/rallies/precache-manifest.5cc11de76fff026d666074801a4ca3d8.js",
+    "precache-manifest.44bbb1575b330078fa505e41132ba250.js": "/rallies/precache-manifest.44bbb1575b330078fa505e41132ba250.js",
     "service-worker.js": "/rallies/service-worker.js",
-    "static/css/2.7214840c.chunk.css.map": "/rallies/static/css/2.7214840c.chunk.css.map",
-    "static/css/main.dab070d2.chunk.css.map": "/rallies/static/css/main.dab070d2.chunk.css.map",
+    "static/css/2.2cfa1b23.chunk.css.map": "/rallies/static/css/2.2cfa1b23.chunk.css.map",
+    "static/css/main.5729bacf.chunk.css.map": "/rallies/static/css/main.5729bacf.chunk.css.map",
     "static/media/1LZwR4l6AtKw.png": "/rallies/static/media/1LZwR4l6AtKw.3dff462c.png",
     "static/media/LZwR4l6AtKw.jpg": "/rallies/static/media/LZwR4l6AtKw.f8f5fd7c.jpg",
     "static/media/ic_launcher.png": "/rallies/static/media/ic_launcher.bc7158f2.png",
@@ -23,9 +23,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6403436d.js",
-    "static/css/2.7214840c.chunk.css",
-    "static/js/2.40d200e4.chunk.js",
-    "static/css/main.dab070d2.chunk.css",
-    "static/js/main.2b71244d.chunk.js"
+    "static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.d3864b94.chunk.js",
+    "static/css/main.5729bacf.chunk.css",
+    "static/js/main.ddfa1e36.chunk.js"
   ]
 }
