@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rallies/static/css/main.7add08d8.chunk.css",
-    "main.js": "/rallies/static/js/main.baba9f30.chunk.js",
-    "main.js.map": "/rallies/static/js/main.baba9f30.chunk.js.map",
+    "main.js": "/rallies/static/js/main.44301a54.chunk.js",
+    "main.js.map": "/rallies/static/js/main.44301a54.chunk.js.map",
     "runtime-main.js": "/rallies/static/js/runtime-main.cf822795.js",
     "runtime-main.js.map": "/rallies/static/js/runtime-main.cf822795.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/rallies/static/css/2.2cfa1b23.chunk.css",
     "static/js/2.bfd7f9f5.chunk.js": "/rallies/static/js/2.bfd7f9f5.chunk.js",
     "static/js/2.bfd7f9f5.chunk.js.map": "/rallies/static/js/2.bfd7f9f5.chunk.js.map",
     "index.html": "/rallies/index.html",
-    "precache-manifest.c0fd5466c8ff771f0f7c5c3f1ef1d54f.js": "/rallies/precache-manifest.c0fd5466c8ff771f0f7c5c3f1ef1d54f.js",
+    "precache-manifest.d2aa29d310ac761f9b058f99f5f1076b.js": "/rallies/precache-manifest.d2aa29d310ac761f9b058f99f5f1076b.js",
     "service-worker.js": "/rallies/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/rallies/static/css/2.2cfa1b23.chunk.css.map",
     "static/css/main.7add08d8.chunk.css.map": "/rallies/static/css/main.7add08d8.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/css/2.2cfa1b23.chunk.css",
     "static/js/2.bfd7f9f5.chunk.js",
     "static/css/main.7add08d8.chunk.css",
-    "static/js/main.baba9f30.chunk.js"
+    "static/js/main.44301a54.chunk.js"
   ]
 }
