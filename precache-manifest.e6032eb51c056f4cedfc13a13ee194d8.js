@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "406c112461dc9a34f25485342b5f6145",
+    "revision": "46602be556217f1cad12e3faff1d0425",
     "url": "/rallies/index.html"
   },
   {
-    "revision": "78619c21f3120f1cc74c",
+    "revision": "aa5a9dffc02a85443201",
     "url": "/rallies/static/css/2.2cfa1b23.chunk.css"
   },
   {
-    "revision": "f3b221847f48ef635040",
-    "url": "/rallies/static/css/main.9727cccc.chunk.css"
+    "revision": "9d0be4759b8b349515a3",
+    "url": "/rallies/static/css/main.4cf80b75.chunk.css"
   },
   {
-    "revision": "78619c21f3120f1cc74c",
-    "url": "/rallies/static/js/2.bfd7f9f5.chunk.js"
+    "revision": "aa5a9dffc02a85443201",
+    "url": "/rallies/static/js/2.1efa4095.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/rallies/static/js/2.bfd7f9f5.chunk.js.LICENSE"
+    "url": "/rallies/static/js/2.1efa4095.chunk.js.LICENSE"
   },
   {
-    "revision": "f3b221847f48ef635040",
-    "url": "/rallies/static/js/main.28528837.chunk.js"
+    "revision": "9d0be4759b8b349515a3",
+    "url": "/rallies/static/js/main.243eaa90.chunk.js"
   },
   {
     "revision": "1a98abf6c05bb831b379",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "42446fd58b2b0e69d3946a36d437caea",
     "url": "/rallies/static/media/ic_launcher_light.42446fd5.png"
+  },
+  {
+    "revision": "bd4a58957145df6a8d168542f4d149cc",
+    "url": "/rallies/static/media/img_354628.bd4a5895.png"
   },
   {
     "revision": "75dfa1e108bf5abf13cb0f31c4778c98",
